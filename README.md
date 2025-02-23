@@ -22,26 +22,6 @@ I believe in open-source technology, decentralized solutions, and making systems
 
 - Decentralization & Privacy – Because your data should be yours, not some megacorp’s.
 
-# 🚀 Projects I'm Working On
-
-- Federated AI for Peer-to-Peer Networks – Leveraging blockchain & AI for decentralized intelligence.
-
-- Automated Penetration Testing & Blue Team AI – AI-driven cybersecurity tools using LangGraph.
-
-- Open-Source Private LTE/5G Networks – For rural connectivity & privacy-focused communication.
-
-- Hybrid LiFi-RF-Ultrasonic Data Transmission – Because why not make the internet faster and weirder?
-
-- AI-Driven Social Services & Crisis Support – Making bureaucracy less painful with machine learning.
-
-# 📝 My Code, My Rules
-
-If it’s broken, I’ll fix it (lol but you're more than welcome to help). If it works, I’ll optimize it.
-
-If it’s inefficient, I’ll rewrite it in something better.
-
-If you say something is “unhackable,” I accept your challenge.
-
 Open-source, decentralized, and distributed technologies are the foundation of a fairer, more resilient future. 
 
 If you hoard knowledge (or ungodly amounts of resources or wealth), you’re part of the problem.
