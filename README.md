@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I am a cybersecurity professional, ethical hacker, full-stack developer, and AI tinkerer with a strong distaste for inefficiency, nonsense, and anything that looks remotely like corporate greed. I build, break, and fix things (or try) sometimes all at once.
 
@@ -6,7 +6,7 @@ Currently working on federated AI, blockchain security, Web3 penetration testing
 
 I believe in open-source technology, decentralized solutions, and making systems work for people instead of the other way around. Also, if your system is insecure, I probably already found the vulnerability before you even knew it existed.
 
-# 🛠️ Skills & Interests
+## 🛠️ Skills & Interests
 
 - Cybersecurity & Ethical Hacking – Breaking things so others don’t get to do it first.
 
